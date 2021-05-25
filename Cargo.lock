@@ -262,7 +262,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "actix-web-example"
+name = "actix_web_example"
 version = "0.1.0"
 dependencies = [
  "actix-web",
